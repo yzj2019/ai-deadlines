@@ -1,12 +1,12 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Yzj Tracking Some Deadlines
+description: Countdowns to some deadlines
+author: Zijian Yu
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "yzj2019.github.io"
+baseurl: "/ai-deadlines"
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
+# twitter_hashtag: machinelearning
+github_username: yzj2019
 github_repo: ai-deadlines
 
 markdown: kramdown
