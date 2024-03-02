@@ -1,3 +1,27 @@
+- title: AABI
+  year: 2024
+  id: aabi24
+  full_name: Advances in Approximate Bayesian Inference
+  link: http://approximateinference.org/
+  deadline: '2024-03-29 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July, 21, 2024
+  sub: ML
+  note: "The deadline for submissions to the proceedings and workshop tracks is 29 March. The deadline for submitting a recently published paper to AABI's fast track is 10 May."
+
+- title: CoRL
+  year: 2024
+  id: corl24
+  link: https://corl.org
+  deadline: '2024-06-06 23:59:00'
+  timezone: UTC-12
+  place: Munich, Germany
+  date: November 06-09, 2024
+  start: 2024-11-06
+  end: 2024-11-09
+  sub: RO
+
 - title: MM
   year: 2024
   id: mm24
@@ -179,7 +203,7 @@
   year: 2024
   id: icml24
   link: https://icml.cc/Conferences/2024
-  deadline: '2024-02-01 11:59:00'
+  deadline: '2024-02-01 23:59:59'
   timezone: UTC-12
   place: Vienna, Austria
   date: July 21-27, 2024
@@ -225,9 +249,11 @@
   deadline: '2024-03-29 23:59:59'
   abstract_deadline: '2024-03-22 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: October, 2024
-  sub: NLP
+  place: Philadelphia, USA
+  date: October 7-9, 2024
+  start: 2024-10-07
+  end: 2024-10-09
+  sub: NLP, ML
   note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
 
 - title: IJCAI
@@ -251,8 +277,8 @@
   id: CHIL24
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org/index.html
-  deadline: '2024-02-05 23:59:59'
-  timezone: America/New_York
+  deadline: '2024-02-16 23:59:59'
+  timezone: UTC-12
   place: New York, New York
   date: June, 27-28, 2024
   start: 2024-06-27
@@ -2247,3 +2273,31 @@
   end: 2024-11-28
   sub: SP
   note: Check the conference website for workshop and demo deadlines.
+
+- title: MIPR
+  year: 2024
+  id: mipr24  # title as lower case + last two digits of year
+  full_name: International Conference on Multimedia Information Processing and Retrieval # full conference name
+  link: https://sites.google.com/view/mipr2024
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-7
+  place: San Jose, USA
+  date: August, 07-09, 2024
+  start: 2024-08-07
+  end: 2024-08-09
+  sub: ML
+  note: Check the conference website for paper review available and notification of acceptance date.
+
+- title: AIware
+  year: 2024
+  id: aiware24  # title as lower case + last two digits of year
+  full_name: ACM International Conference on AIware  # full conference name
+  link: https://2024.aiwareconf.org/#
+  deadline: '2024-03-29 23:59:59'
+  timezone: UTC-3
+  place: Porto de Galinhas, Brazil
+  date: July, 15-16, 2024
+  start: 2024-07-15
+  end: 2024-07-16
+  sub: ML
+  note: Check the conference website for details the Challenge Track, Industry Statements and Demo Track, and Late Breaking Arxiv Track.
