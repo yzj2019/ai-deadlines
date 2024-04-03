@@ -1,3 +1,17 @@
+- title: SPAICE
+  year: 2024
+  id: spaice24
+  full_name: 1st ESA Conference on AI in and for Space
+  link: https://spaice.esa.int/
+  deadline: '2024-05-19 23:59:59'
+  timezone: UTC+2
+  place: ECSAT, Harwell, United Kingdom
+  date: September 17-19, 2024
+  start: 2024-09-17
+  end: 2024-09-19
+  sub: ML
+  note: Best papers will be selected for special issues on AI and space in IAA Acta Astronautica and Springer Astrodynamics. More info <a href='https://spaice.esa.int/call-for-papers/'>here</a>.
+
 - title: EMNLP
   year: 2024
   id: emnlp24
