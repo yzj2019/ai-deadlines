@@ -1,3 +1,17 @@
+- title: KIL
+  year: 2024
+  Id: kil24
+  full_name: KDD Workshop on Knowledge-infused Learning
+  link: https://kil-workshop.github.io/
+  deadline: '2024-05-25 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25, 2024
+  start: 2024-08-20
+  end: 2024-08-25
+  sub: ['NLP', 'ML', 'DM']
+  Note: More info <a href='https://kil-workshop.github.io/'>here</a>
+
 - title: EMNLP
   year: 2024
   id: emnlp24
@@ -10,7 +24,7 @@
   end: 2024-11-16
   sub: NLP
   note: More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>.
-
+  
 - title: CIKM
   year: 2024
   id: CIKM24
